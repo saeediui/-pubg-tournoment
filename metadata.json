@@ -1,0 +1,6 @@
+{
+  "name": "Birthday Surprise for Habiba",
+  "description": "An elegant, luxurious birthday celebration website for Habiba with interactive 3D cake cutting, realistic candles, a luxury gallery, and grand celebration fireworks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
